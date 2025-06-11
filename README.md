@@ -1,2 +1,1 @@
-# EE 443 Final 
-Face Verification
+# Face Verification
